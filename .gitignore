@@ -1,0 +1,7 @@
+__pycache__/
+.alfred
+.venv
+.vscode
+build/
+dist/
+*.spec
